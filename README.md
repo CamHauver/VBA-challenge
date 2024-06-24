@@ -1,8 +1,8 @@
 # VBA-challenge
 module 2 challenge
-Sub quarterly_stocks():
+'''VBA code
 
-"""VBA CODE
+Sub quarterly_stocks():
     
     'define dimensions
     Dim total As Double

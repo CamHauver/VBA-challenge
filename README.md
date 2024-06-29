@@ -1,6 +1,8 @@
 # VBA-challenge
-module 2 challenge
-'''VBA code
+
+'Open VBA_challenge folder in this repo for VBA script file and screenshots of results
+
+'VBA code
 
 Sub quarterly_stocks():
     

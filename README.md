@@ -1,6 +1,9 @@
 # VBA-challenge
+'VBA script that analyzes stock market data in an excel spreadsheet across multiple sheets simultaneously
 
 'Open VBA_challenge folder in this repo for VBA script file and screenshots of results
+
+'Original code source: Data Analytics course instructor, Andrew Hoang's, speed run Zoom recording for Module 2 Challenge
 
 'VBA code
 
